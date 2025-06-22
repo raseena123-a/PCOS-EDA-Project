@@ -7,13 +7,14 @@ This project performs Exploratory Data Analysis (EDA) on a clinical dataset rela
 - Examine lifestyle factors such as fast food consumption and regular exercise.
 - Identify which features most correlate with PCOS.
 - Visualize cycle irregularity and follicle count differences.
-- 
+
 ##  Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn)
 - google colab
 - # dataset
-- 
+  <ahref:https://github.com/raseena123-a/PCOS-EDA-Project</ahref>
+  
 - ##  Key Insights
 
 This EDA explores how clinical and lifestyle variables differ between women with and without PCOS.
