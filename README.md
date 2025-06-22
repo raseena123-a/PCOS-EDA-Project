@@ -12,7 +12,7 @@ This project performs Exploratory Data Analysis (EDA) on a clinical dataset rela
 
 - Python (Pandas, Matplotlib, Seaborn)
 - google colab
-- # dataset
+- # Dataset
   <ahref:https://github.com/raseena123-a/PCOS-EDA-Project</ahref>
   
 - ##  Key Insights
