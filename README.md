@@ -50,3 +50,8 @@ This EDA explores how clinical and lifestyle variables differ between women with
      - Consume fast food frequently
      - Exercise less regularly
    - These factors may contribute to or worsen PCOS symptoms.
+   - ##  Conclusion
+
+This exploratory data analysis on the PCOS dataset highlights clear distinctions between women with and without Polycystic Ovary Syndrome across various clinical, physical, and lifestyle features.Key findings indicate that PCOS is associated with hormonal imbalances (notably higher LH and AMH levels), increased BMI, irregular menstrual cycles, and physical symptoms such as acne, hair loss, and skin darkening. Additionally, lifestyle patterns—such as frequent fast food consumption and lack of regular exercise—appear to be more common among PCOS patients.
+By visualizing and analyzing these patterns, this project provides valuable insights that align with known clinical understanding of PCOS. These insights can support early detection efforts and underscore the importance of lifestyle management in mitigating PCOS-related symptoms.
+This analysis also lays the foundation for potential machine learning models to predict PCOS in clinical settings.
